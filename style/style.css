@@ -123,6 +123,7 @@ text-decoration: none;
 
 h4{
     font-size: 100%;
+    color: black;
 }
 
     .card{
@@ -146,6 +147,7 @@ h4{
         flex-direction: column;
         width: 100%;
         height: auto;
+        background-color: white;
  
     }
 
